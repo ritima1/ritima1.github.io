@@ -1,0 +1,17 @@
+title: Ritima Malhotra # your name (or website title) here
+logo: "/images/portfolio.jpg" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Educator turned Data Scientist with 6+ years of experience; passionate about research, data science and machine learning.
+  <ul>
+  <li>PGP - Data Science & Business Analytics</li>
+  <li>PhD - Organizational Behaviour</li>
+  <br>
+  <a href="https://www.linkedin.com/in/ritimam/">View my LinkedIn Profile</a> 
+  <br>
+  <a href="https://ritima1.github.io/pdf/Ritima_Malhotra_resume.pdf">View my Resume</a> 
+  
+theme: jekyll-theme-minimal
+
+colors:
+  crimson: '#900C3F'
