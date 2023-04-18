@@ -39,7 +39,7 @@ Model Tuning - EDA, Missing Value Imputation, Oversampling (using SMOTE), Unders
 ---
 
 ## EasyVisa
-- Built a predictive model (using classification) to facilitate the process of via approvals.
+- Built a predictive model (using classification) to facilitate the process of visa approvals.
 - Identified factors that influenced case status to help recommend a suitable candidate profile that would help determine when to certify or deny visa to an applicant.
 - Objective was to maximize F1 score to minimize both false negatives & false positives.
 
@@ -107,7 +107,7 @@ Business Statistics - Hypothesis Testing (t-test, z-test, chi-square test, ANOVA
 ---
 
 ## Cardio Good Fitness Project
-- Objective was to identify customer preferences WRT three different treadmill models.
+- Objective was to identify customer preferences w.r.t three different treadmill models.
 - Correlations via heatmap were studied to identify variable relationships that impacted customer buying decisions to target the right treadmill model to the right customer segment.
 - Recommendations were provided to help Cardio Fitness increase their customer base.
 
