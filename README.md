@@ -7,7 +7,7 @@ I have experience in database manipulation/extraction, ML model development, and
 
 I have a background in teaching having taught various courses including **HR Analytics and Metrics**, **Applied HR Policies**, **Human Resources Planning** and **Training & Development** at degree and post-graduate level.
 
-Seeking opportunities in a variety of industries to gain experience in data science, machine learning, strategy, analytics and experimentation. My [Resume](https://github.com/ritima1/ritima1.github.io/tree/master/pdf/Ritima_Malhotra_resume.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase these projects in a more visual way. 
+Seeking opportunities in a variety of industries to gain experience in data science, machine learning, strategy, analytics and experimentation. My resume has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase these projects in a more visual way. 
 
 If you have any questions, feel free to drop me an [email](mailto:ritima1@gmail.com) or send me a message on [LinkedIn](https://www.linkedin.com/in/ritimam/). 
 
